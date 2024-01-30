@@ -17,8 +17,11 @@ This project helps management create, read, update, and destroy information pert
 ## Installation
 1. Run `NPM Init` to install the dependent node packages.
 2. Rename the .env.example file to .env
-3. Input your personal mysql details in the `root` and `password` variables.
-4. Launch the App by running 'node index.js' in your Terminal.
+3. Input your personal mysql details in the `root` and `password` variables in the .env file.
+4. Establish the database by logging into your mysql instance by typing `mysql -u (username) -p (password)` in your Terminal.
+5. Run the command `source db/schema.sql` followed by `source db/seeds.sql` from the root folder in your Terminal.
+6. Exit mysql by typing `exit` in your Terminal
+7. Launch the App by running 'node index.js' from the root folder in your Terminal.
 
 ## Usage 
 Once the App has launched you will be prompted to perform whatever task you wish. Please read the features below for a full lsit of options.
