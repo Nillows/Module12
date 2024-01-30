@@ -4,6 +4,8 @@
 ## Description 
 This project helps management create, read, update, and destroy information pertaining to employee's, their roles, and departments in the organization.
 
+## [Video Link](https://streamable.com/ktu8uh)
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
