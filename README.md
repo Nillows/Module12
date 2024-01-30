@@ -15,7 +15,7 @@ This project helps management create, read, update, and destroy information pert
 - [Questions](#questions)
 
 ## Installation
-1. Run `NPM Init` to install the dependent node packages.
+1. Run `npm i` to install the dependent node packages.
 2. Rename the .env.example file to .env
 3. Input your personal mysql details in the `root` and `password` variables in the .env file.
 4. Establish the database by logging into your mysql instance by typing `mysql -u (username) -p (password)` in your Terminal.
