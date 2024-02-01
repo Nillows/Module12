@@ -26,7 +26,7 @@ This project helps management create, read, update, and destroy information pert
 7. Launch the App by running 'node index.js' from the root folder in your Terminal.
 
 ## Usage 
-Once the App has launched you will be prompted to perform whatever task you wish. Please read the features below for a full lsit of options.
+Once the App has launched you will be prompted to perform whatever task you wish. Please read the features below for a full list of options.
 
 ## Credits
 Nillows
